@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculate.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="calculate.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/calculate/calculate.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.47434118" vertical-offset="0" max-vertical-offset="721">
+            <state line="19" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="696">
               <folding />
             </state>
           </provider>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/lib/calculator.rb" />
         <option value="$PROJECT_DIR$/calculator.gemspec" />
         <option value="$PROJECT_DIR$/lib/calculate/calculate.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -310,7 +320,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/calculate/calculate.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.47434118" vertical-offset="0" max-vertical-offset="721">
+        <state line="19" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="696">
           <folding />
         </state>
       </provider>
